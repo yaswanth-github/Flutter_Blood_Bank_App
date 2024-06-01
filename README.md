@@ -26,11 +26,6 @@ The app allows users to register as donors or recipients, search for available b
 - Donation history and request tracking
 - Admin panel for blood bank management
 
-## Screenshots
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
-
 ## Getting Started
 To run the Blood Bank Flutter App locally on your machine, follow the instructions below.
 
