@@ -1,7 +1,5 @@
 # Blood Bank Flutter App
 
-![App Demo](app_demo.gif)
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
